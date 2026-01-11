@@ -1,0 +1,22 @@
+{
+  "name": "zk-voting-system",
+  "version": "1.0.0",
+  "description": "Zero-Knowledge SNARK Anonymous Voting System",
+  "main": "zk-voting-demo.js",
+  "scripts": {
+    "demo": "node zk-voting-demo.js"
+  },
+  "keywords": [
+    "zk-snark",
+    "voting",
+    "zero-knowledge",
+    "circom",
+    "privacy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "snarkjs": "^0.7.0",
+    "circomlibjs": "^0.1.7"
+  }
+}
